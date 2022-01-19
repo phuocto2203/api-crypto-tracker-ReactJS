@@ -1,3 +1,6 @@
+*{
+    margin: 0;
+}
 .dark-background{
     background: #18181a;
     z-index: -999;
